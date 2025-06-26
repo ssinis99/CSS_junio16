@@ -1,0 +1,25 @@
+body{background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);}
+
+h1{
+  color: #333;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+li {
+  font-family: 'Arial', sans-serif;
+  color: #555;
+  margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  color: #777;
+  margin-top: 20px;
+}
